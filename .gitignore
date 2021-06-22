@@ -1,0 +1,29 @@
+
+# Directories
+Debug/
+ipch/
+Reference/
+.vc/
+
+# IntelliSense file
+*.VC.db
+*.VC.opendb
+*.VC.db-wal
+*.VC.db-shm
+
+# VisualStudio 2015 cache/options directory
+*.user
+
+# Build File For Visual Studio
+*.obj
+*.idb
+*.pch
+*.log
+*.tlog
+*.lastbuildstate
+*.cso
+
+*.exp
+*.exe
+*.ilk
+*.pdb
